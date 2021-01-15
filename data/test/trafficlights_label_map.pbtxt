@@ -1,5 +1,0 @@
-item {
-    name: "traffic_light",
-    id: 1,
-    display_name: "traffic_light"
-}
